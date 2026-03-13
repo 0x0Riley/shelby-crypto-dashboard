@@ -1,0 +1,14 @@
+# Shelby Crypto Dashboard
+
+Real-time crypto data stream dashboard.
+
+Features:
+
+- Live BTC ETH SOL prices
+- Whale transaction feed
+- Real-time updates
+
+Built for Shelby Early Access.
+
+Demo concept:
+Real-time data serving using decentralized hot storage.
